@@ -440,7 +440,7 @@ sections:
       technical excellence, innovation, and a proactive mindset. 
     name: Shivansh Aggarwal
     title: Senior at Bosch
-    colors: colors-f
+    colors: colors-a
     elementId: ''
     styles:
       self:
