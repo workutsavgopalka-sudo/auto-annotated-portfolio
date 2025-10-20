@@ -373,7 +373,7 @@ sections:
         label: 'Computer Vision Systems: Cognex, Keyence'
         url: ''
       - type: Label
-        label: Swift
+        label: 'Microcontrollers: Arduino, Raspberry Pi'
         url: ''
     colors: colors-f
     elementId: ''
