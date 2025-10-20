@@ -178,10 +178,27 @@ sections:
       - type: FeaturedItem
         title: 'Internship - Bosch, Jaipur, Limited'
         subtitle: Jan 2022 - July 2022
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          During my internship at Bosch Ltd., I led research and implementation
+          projects focused on dry leakage testing for fuel injectors, where I
+          designed and developed a dedicated testing workstation using Autodesk
+          Inventor. I successfully utilized 3D printing techniques for rapid
+          prototyping, which resulted in increased production efficiency and
+          significant cost savings in manufacturing. My proactive approach
+          enabled me to propose and implement design ideas that streamlined
+          research and assembly processes, enhancing overall project outcomes.
+
+
+          Additionally, I collaborated with cross-functional teams to support
+          ongoing projects, applying practical engineering solutions, and
+          contributing actively to process improvement efforts. This experience
+          provided me with comprehensive exposure to industrial problem-solving,
+          machine design, and the practical integration of additive
+          manufacturing—all while refining my skills in CAD modeling, PLC
+          programming, and teamwork in a dynamic engineering environment.
+
+
+
         featuredImage:
           type: ImageBlock
           url: /images/bosch 1.PNG
