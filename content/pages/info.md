@@ -375,6 +375,9 @@ sections:
       - type: Label
         label: 'Microcontrollers: Arduino, Raspberry Pi'
         url: ''
+      - type: Label
+        label: Python Programming
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
