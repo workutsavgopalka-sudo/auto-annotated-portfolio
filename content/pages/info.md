@@ -439,7 +439,7 @@ sections:
       that Utsav will thrive in any professional environment that values
       technical excellence, innovation, and a proactive mindset. 
     name: Shivansh Aggarwal
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
