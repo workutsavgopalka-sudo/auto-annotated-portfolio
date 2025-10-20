@@ -520,8 +520,7 @@ sections:
       high-quality results.It was impressive to see how he actively sought
       feedback and used it as a tool for continuous improvement. I am confident
       that Utsav will thrive in any professional environment that values
-      technical excellence, innovation, and a proactive mindset. - Shivansh
-      Aggarwal
+      technical excellence, innovation, and a proactive mindset. 
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     colors: colors-f
