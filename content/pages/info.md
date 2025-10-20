@@ -165,7 +165,7 @@ sections:
           - type: Button
             label: 'About my Bosch Projects '
             altText: ''
-            url: /
+            url: /projects
             showIcon: true
             icon: arrowRight
             iconPosition: right
