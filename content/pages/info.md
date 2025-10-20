@@ -121,7 +121,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Process Improvement Engineer - Bosch Limited, Jaipur, India'
-        subtitle: November 2022 - November 2023
+        subtitle: November 2022 - November 202
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
