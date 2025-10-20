@@ -306,7 +306,7 @@ sections:
         title: >-
           Bachelors in Technology - Mechatronics Engineering - Manipal
           University Jaipur, Jaipur, India
-        subtitle: ''
+        subtitle: July 2018 - July 2022
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
