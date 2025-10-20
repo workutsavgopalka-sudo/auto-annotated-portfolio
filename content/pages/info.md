@@ -370,7 +370,7 @@ sections:
         label: Pneumatics and Hydraulics Systems
         url: ''
       - type: Label
-        label: C++
+        label: 'Computer Vision Systems: Cognex, Keyence'
         url: ''
       - type: Label
         label: Swift
