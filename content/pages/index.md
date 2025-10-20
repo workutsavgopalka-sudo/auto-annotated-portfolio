@@ -15,19 +15,14 @@ sections:
     backgroundSize: full
     title: 'Hi, I am Utsav Gopalka'
     subtitle: >-
-      I am a Mechatronics engineer with over three years of hands-on expertise
-      in CAD modeling, GD&T, and PLC programming, adept at orchestrating and
-      visualizing the design and manufacture of complex machinery and ergonomic
-      workstations. My professional repertoire at Bosch encompassed the
-      integration of advanced mechatronic systems, oversight of
-      precision-engineered fixtures, and fostering robust safety and quality
-      standards. Currently, I am augmenting my strategic and managerial acumen
-      through graduate studies in Engineering with Management (Intelligent
-      Manufacturing) at the University of Bristol. I aspire to join a leading
-      consulting firm, where I aim to leverage my dual technical-management
-      competencies to influence critical decision-making illuminating the nexus
-      between engineering innovation and its business, financial, and strategic
-      impacts on organizational success.
+      I am a Mechatronics engineer with 3+ years of experience in CAD, GD&T, and
+      PLC programming—skilled at designing, visualizing, and coordinating the
+      development of machinery and workstations using integrated mechatronic
+      systems. After leading impactful engineering projects at Bosch, I am now
+      deepening my expertise in strategy and management as an MSc candidate at
+      the University of Bristol. I aspire to join consulting, where I can
+      connect engineering innovation with business strategy and help shape
+      decisions that drive organizational growth and financial success.
     styles:
       self:
         height: auto
