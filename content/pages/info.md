@@ -88,7 +88,7 @@ sections:
           - type: Link
             label: Learn more
             altText: ''
-            url: '(mailto:work.utsavgopalka@gmail.com)'
+            url: '<a href="mailto:work.utsavgopalka@gmail.com">Email me directly</a>'
             showIcon: false
             icon: arrowRight
             iconPosition: right
