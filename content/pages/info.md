@@ -235,16 +235,7 @@ sections:
           into the operational backbone of industrial machinery and factory
           workflows.
 
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
