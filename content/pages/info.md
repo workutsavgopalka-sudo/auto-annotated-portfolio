@@ -163,7 +163,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: 'About my Bosch Projects '
             altText: ''
             url: /
             showIcon: true
