@@ -525,13 +525,7 @@ sections:
           professional environment that values technical excellence, innovation,
           and a proactive mindset.
         name: Shivansh Aggarwal
-        title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
+        title: ''
         elementId: ''
       - type: Testimonial
         quote: >-
