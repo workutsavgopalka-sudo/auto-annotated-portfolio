@@ -45,7 +45,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/generated-image (3).png
       altText: Hero image
     styles:
       self:
