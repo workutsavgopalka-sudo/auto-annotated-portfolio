@@ -349,7 +349,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     title: Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'CAD Modeling: Fusion 360, Inventor, AutoCAD, Creo'
