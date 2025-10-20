@@ -425,28 +425,6 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
   - type: QuoteSection
     quote: >-
       I had the pleasure of working with Utsav during his internship at Bosch,
@@ -474,6 +452,28 @@ sections:
           - pl-0
           - pr-0
         textAlign: center
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
