@@ -120,7 +120,7 @@ sections:
     title: Work Experience
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 'Process Improvement Engineer - Bosch Limited, Jaipur, India'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
