@@ -14,10 +14,34 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      I am a Mechatronics engineer with over three years of hands-on experience
+      in CAD, GD\&T, and PLC programming, specializing in the design,
+      visualization, and coordinated development of machinery, fixtures, and
+      ergonomic workstations using integrated mechatronic systems. My technical
+      background is complemented by a rigorous commitment to safety and quality,
+      evidenced by my role at Bosch where I led the establishment of new
+      machines, developed advanced fixtures, and ensured compliance with robust
+      safety protocols across production environments.
+
+
+      Currently, I am pursuing an MSc in Engineering with Management
+      (Intelligent Manufacturing) at the University of Bristol, where I am
+      deepening my expertise in strategy, risk management, and organizational
+      leadership. This dual focus has empowered me to develop risk mitigation
+      frameworks for manufacturing transformations and to bridge the gap between
+      innovative engineering and effective business management.
+
+
+      I am passionate about joining consulting because it allows me to leverage
+      both my technical proficiency and strategic mindset to solve
+      multidimensional problems for clients. Consulting excites me as it offers
+      the chance to engage with complex decision-making processes, understand
+      how engineering innovations impact business and financial outcomes, and
+      contribute to the development of holistic solutions that deliver
+      measurable value. I aspire to be at the forefront of interdisciplinary
+      teams, influencing tactical choices and guiding organizations through
+      technological change, operational efficiency improvements, and the
+      realization of sustainable growth.
 
     media:
       type: ImageBlock
