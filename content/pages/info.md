@@ -438,7 +438,7 @@ sections:
       feedback and used it as a tool for continuous improvement. I am confident
       that Utsav will thrive in any professional environment that values
       technical excellence, innovation, and a proactive mindset. 
-    name: Johnna Doe
+    name: Shivansh Aggarwal
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
