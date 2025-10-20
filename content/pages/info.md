@@ -69,14 +69,6 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: ''
         subtitle: ''
         text: ''
@@ -93,6 +85,14 @@ sections:
             icon: arrowRight
             iconPosition: right
             elementId: ''
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: LinkedIn
+            url: 'https://www.linkedin.com/'
+        styles:
+          self:
+            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 16
