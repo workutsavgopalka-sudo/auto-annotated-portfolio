@@ -122,10 +122,39 @@ sections:
       - type: FeaturedItem
         title: 'Process Improvement Engineer - Bosch Limited, Jaipur, India'
         subtitle: November 2022 - November 20
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          1.  During my tenure as a Graduate Apprentice in the Technical
+          Engineering function at Bosch Limited, I was entrusted with the
+          optimization of production line processes across multiple technical
+          domains, including industrial design, pneumatics, hydraulics,
+          machining, industrial cameras, electronics, and 3D modeling. I
+          executed and led numerous cross-functional projects, demonstrating a
+          strong command of CAD-driven fixture and workstation design,
+          generative design principles, and the integration of intelligent
+          interlocks and poka-yoke mechanisms to enhance operational efficiency
+          and product quality.
+
+          2.  Some of my major contributions include: 
+
+              1.  Process Optimization & Automation: Spearheaded the design and implementation of custom clamping systems and pallets for nozzle nut assembly, automating torquing processes to increase consistency, reduce manual labor, and drive productivity gains.
+
+                  Prototyping & Additive Manufacturing: Implemented 3D printing for rapid prototyping and manufacturing of components, achieving substantial cost savings and enabling innovative solutions for assembly and testing challenges.
+
+              2.  Fixture & Machine Development: Developed and integrated centrifugal drying systems, redesigned dryer baskets, and engineered automation-focused modifications to improve cycle time and process consistency—reducing drying times by up to 68%.
+
+                  Quality Improvement: Utilized technical problem-solving and FMEA to diagnose root causes in assembly processes, leading to solutions such as sensor-based interlock systems that decreased risk and improved product reliability (notably reducing RPN from 108 to 72).
+
+              3.  Industrial Automation: Programmed and deployed Cognex camera vision systems for magnified and digitized code inspection, training operators and enhancing inspection efficiency and quality control.
+
+                  Safety & Compliance: Championed process modifications and automation to ensure robust adherence to Bosch’s stringent safety protocols during new machine establishment and daily operations.
+          3.  Alongside my technical output, I consistently presented actionable
+          project recommendations to senior leadership, collaborated across
+          engineering and production teams, and demonstrated innovation in
+          leading continuous improvement initiatives. My experience at Bosch
+          honed my ability to bridge technical expertise with project management
+          and strategic problem-solving, preparing me to add value in
+          multidisciplinary industrial and consulting environments.
+
         featuredImage:
           type: ImageBlock
           url: /images/bosch 1.PNG
