@@ -47,7 +47,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: /indo
+        url: /info
         showIcon: false
         icon: arrowRight
         iconPosition: right
