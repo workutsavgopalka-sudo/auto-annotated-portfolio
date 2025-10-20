@@ -220,7 +220,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: 'Internship - Aakaish Mechatronics, Elecon Engineering, Anand, Gujarat'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
