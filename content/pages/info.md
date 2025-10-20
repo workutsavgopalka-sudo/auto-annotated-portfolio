@@ -230,7 +230,7 @@ sections:
           type: ImageBlock
           url: /images/logo (1).png
           altText: Aakaish Mechatronics
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         actions:
           - type: Button
