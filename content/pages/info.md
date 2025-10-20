@@ -84,15 +84,7 @@ sections:
         styles:
           self:
             textAlign: left
-        actions:
-          - type: Link
-            label: Learn more
-            altText: ''
-            url: '<a href="mailto:work.utsavgopalka@gmail.com">Email me directly</a>'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
     columns: 3
     spacingX: 120
     spacingY: 16
