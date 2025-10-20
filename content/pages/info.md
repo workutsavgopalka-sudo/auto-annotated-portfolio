@@ -252,7 +252,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/logo (1).png
-          altText: altText of the image
+          altText: Aakaish Mechatronics
           caption: ''
           elementId: ''
     actions: []
