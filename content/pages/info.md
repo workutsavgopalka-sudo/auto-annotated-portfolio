@@ -367,7 +367,7 @@ sections:
         label: Programmable Logic Controller (PLC) Programming
         url: ''
       - type: Label
-        label: Pancakes
+        label: Pneumatics and Hydraulics Systems
         url: ''
       - type: Label
         label: C++
