@@ -84,6 +84,15 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: <work.utsavgopalka@gmail.com>
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 16
