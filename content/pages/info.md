@@ -134,19 +134,19 @@ sections:
           interlocks and poka-yoke mechanisms to enhance operational efficiency
           and product quality.
 
-          2.  Some of my major contributions include: 
+          2.  Some of my major contributions include:
 
               1.  Process Optimization & Automation: Spearheaded the design and implementation of custom clamping systems and pallets for nozzle nut assembly, automating torquing processes to increase consistency, reduce manual labor, and drive productivity gains.
 
-                  Prototyping & Additive Manufacturing: Implemented 3D printing for rapid prototyping and manufacturing of components, achieving substantial cost savings and enabling innovative solutions for assembly and testing challenges.
+              2.  Prototyping & Additive Manufacturing: Implemented 3D printing for rapid prototyping and manufacturing of components, achieving substantial cost savings and enabling innovative solutions for assembly and testing challenges.
 
-              2.  Fixture & Machine Development: Developed and integrated centrifugal drying systems, redesigned dryer baskets, and engineered automation-focused modifications to improve cycle time and process consistency—reducing drying times by up to 68%.
+              3.  Fixture & Machine Development: Developed and integrated centrifugal drying systems, redesigned dryer baskets, and engineered automation-focused modifications to improve cycle time and process consistency—reducing drying times by up to 68%.
 
-                  Quality Improvement: Utilized technical problem-solving and FMEA to diagnose root causes in assembly processes, leading to solutions such as sensor-based interlock systems that decreased risk and improved product reliability (notably reducing RPN from 108 to 72).
+              4.  Quality Improvement: Utilized technical problem-solving and FMEA to diagnose root causes in assembly processes, leading to solutions such as sensor-based interlock systems that decreased risk and improved product reliability (notably reducing RPN from 108 to 72).
 
-              3.  Industrial Automation: Programmed and deployed Cognex camera vision systems for magnified and digitized code inspection, training operators and enhancing inspection efficiency and quality control.
+              5.  Industrial Automation: Programmed and deployed Cognex camera vision systems for magnified and digitized code inspection, training operators and enhancing inspection efficiency and quality control.
 
-                  Safety & Compliance: Championed process modifications and automation to ensure robust adherence to Bosch’s stringent safety protocols during new machine establishment and daily operations.
+              6.  Safety & Compliance: Championed process modifications and automation to ensure robust adherence to Bosch’s stringent safety protocols during new machine establishment and daily operations.
           3.  Alongside my technical output, I consistently presented actionable
           project recommendations to senior leadership, collaborated across
           engineering and production teams, and demonstrated innovation in
