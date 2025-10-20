@@ -303,7 +303,9 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: >-
+          Bachelors in Technology - Mechatronics Engineering - Manipal
+          University Jaipur, Jaipur, India
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
