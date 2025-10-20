@@ -253,7 +253,7 @@ sections:
           type: ImageBlock
           url: /images/logo (1).png
           altText: altText of the image
-          caption: Caption of the image
+          caption: ''
           elementId: ''
     actions: []
     colors: colors-f
