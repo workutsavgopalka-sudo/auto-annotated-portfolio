@@ -524,7 +524,7 @@ sections:
           continuous improvement. I am confident that Utsav will thrive in any
           professional environment that values technical excellence, innovation,
           and a proactive mindset.
-        name: John Doe
+        name: Shivansh Aggarwal
         title: CEO at Parks
         image:
           type: ImageBlock
