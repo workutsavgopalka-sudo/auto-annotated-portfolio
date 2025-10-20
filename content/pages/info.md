@@ -393,6 +393,9 @@ sections:
       - type: Label
         label: Reverse Engineering
         url: ''
+      - type: Label
+        label: Strategic Business Management
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
