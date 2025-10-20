@@ -538,7 +538,7 @@ sections:
           addressing them ensured the smooth progression of each project,
           reflecting both his technical expertise and leadership qualities.
         name: Ankur Kapoor
-        title: Product Marketing Manager at Acme
+        title: Plant Head Bosch
         elementId: ''
     colors: colors-a
     variant: variant-a
