@@ -207,7 +207,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: 'More about the projects '
             altText: ''
             url: /
             showIcon: true
