@@ -285,8 +285,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/university-of-bristol-logo-png-transparent.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
