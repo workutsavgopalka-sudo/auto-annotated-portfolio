@@ -352,7 +352,7 @@ sections:
     subtitle: The section subtitle
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'CAD Modeling: Fusion 360, Inventor, AutoCAD, Creo'
         url: ''
       - type: Label
         label: React
