@@ -529,8 +529,14 @@ sections:
         elementId: ''
       - type: Testimonial
         quote: >-
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+          He consistently demonstrated an impressive ability to navigate the
+          technical complexities of these projects while effectively managing
+          diverse teams and stakeholders. His adeptness in balancing the
+          technical intricacies with the interpersonal dynamics required for
+          successful project implementation was remarkable. Furthermore, his
+          proactive approach in identifying potential hurdles and swiftly
+          addressing them ensured the smooth progression of each project,
+          reflecting both his technical expertise and leadership qualities.
         name: Johnna Doe
         title: Product Marketing Manager at Acme
         elementId: ''
