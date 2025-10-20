@@ -439,7 +439,7 @@ sections:
       that Utsav will thrive in any professional environment that values
       technical excellence, innovation, and a proactive mindset. 
     name: Shivansh Aggarwal
-    title: ''
+    title: Senior at Bosch
     colors: colors-f
     elementId: ''
     styles:
