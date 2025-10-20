@@ -530,9 +530,9 @@ sections:
         height: auto
         width: full
         padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
         textAlign: center
 ---
