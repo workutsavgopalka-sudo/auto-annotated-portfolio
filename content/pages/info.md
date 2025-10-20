@@ -209,7 +209,7 @@ sections:
           - type: Button
             label: 'More about the projects '
             altText: ''
-            url: /
+            url: /projects
             showIcon: true
             icon: arrowRight
             iconPosition: right
