@@ -65,7 +65,7 @@ sections:
     type: HeroSection
     actions:
       - type: Link
-        label: Learn more
+        label: Linkedin
         altText: ''
         url: 'https://www.linkedin.com/in.utsavgopalka'
         showIcon: false
