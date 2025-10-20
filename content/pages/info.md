@@ -355,7 +355,7 @@ sections:
         label: 'CAD Modeling: Fusion 360, Inventor, AutoCAD, Creo'
         url: ''
       - type: Label
-        label: React
+        label: Product Design & 3D Modeling
         url: ''
       - type: Label
         label: Microsoft Office
