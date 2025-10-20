@@ -129,7 +129,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/bosch 1.PNG
-          altText: Item image
+          altText: Bosch Logo
           caption: Caption of the image
           elementId: ''
         actions:
