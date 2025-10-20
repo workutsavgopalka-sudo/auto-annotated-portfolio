@@ -130,7 +130,7 @@ sections:
           type: ImageBlock
           url: /images/bosch 1.PNG
           altText: Bosch Logo
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         actions:
           - type: Button
