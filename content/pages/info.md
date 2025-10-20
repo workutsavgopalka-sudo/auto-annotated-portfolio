@@ -222,10 +222,19 @@ sections:
       - type: FeaturedItem
         title: 'Internship - Aakaish Mechatronics, Elecon Engineering, Anand, Gujarat'
         subtitle: July 2021 - July 2021
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          During my internship at Elecon Limited, I collaborated closely with
+          the manager to understand CNC machine operations and gearbox
+          manufacturing processes. I assisted in problem-solving within the
+          Maintenance department, applying data-driven analysis to improve
+          equipment reliability and uptime. This experience exposed me to
+          innovative maintenance strategies and preventive practices, deepening
+          my expertise in manufacturing systems and hands-on troubleshooting.
+          Through close observation of maintenance procedures and direct
+          contributions to efficiency improvements, I gained valuable insight
+          into the operational backbone of industrial machinery and factory
+          workflows.
+
         featuredImage:
           type: ImageBlock
           url: /images/logo (1).png
