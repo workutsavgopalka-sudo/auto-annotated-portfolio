@@ -387,6 +387,9 @@ sections:
       - type: Label
         label: 'Tool, Fixture, and Workstation Design'
         url: ''
+      - type: Label
+        label: 'Lean Six Sigma, Continuous Improvement'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
