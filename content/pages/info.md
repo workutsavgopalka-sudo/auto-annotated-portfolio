@@ -533,12 +533,6 @@ sections:
           always helps me adjust my site to look as perfect as I’d hoped.”
         name: Johnna Doe
         title: Product Marketing Manager at Acme
-        image:
-          type: ImageBlock
-          url: /images/person-3.jpg
-          altText: Johnna Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
     colors: colors-a
     variant: variant-a
