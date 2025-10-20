@@ -16,13 +16,16 @@ sections:
     title: 'Hi, I am Utsav Gopalka'
     subtitle: >-
       I am a Mechatronics engineer with 3+ years of experience in CAD, GD&T, and
-      PLC programming—skilled at designing, visualizing, and coordinating the
-      development of machinery and workstations using integrated mechatronic
-      systems. After leading impactful engineering projects at Bosch, I am now
-      deepening my expertise in strategy and management as an MSc candidate at
-      the University of Bristol. I aspire to join consulting, where I can
-      connect engineering innovation with business strategy and help shape
-      decisions that drive organizational growth and financial success.
+      PLC programming, specializing in designing and coordinating the
+      development of machinery and workstations with advanced mechatronic
+      systems. Having driven impactful engineering projects at Bosch, I am now
+      expanding my expertise in strategy and management as an MSc candidate at
+      the University of Bristol. I am drawn to consulting because it offers a
+      unique opportunity to combine my technical background with strategic
+      problem-solving—allowing me to influence how engineering innovations shape
+      business success, create value across industries, and help organizations
+      navigate complex, high-impact decisions at the intersection of technology,
+      finance, and operations.
     styles:
       self:
         height: auto
