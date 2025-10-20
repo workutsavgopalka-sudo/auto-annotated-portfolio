@@ -381,6 +381,9 @@ sections:
       - type: Label
         label: Mechanical Systems Simulation
         url: ''
+      - type: Label
+        label: Industrial Process Optimization
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
