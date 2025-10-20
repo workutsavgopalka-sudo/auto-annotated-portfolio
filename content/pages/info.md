@@ -314,7 +314,7 @@ sections:
           url: >-
             /images/small_Manipal_University_Jaipur_b0a141f1c0_38b8c78a2d_77930b7e25.png
           altText: Manipal University Bristol
-          caption: Caption of the image
+          caption: ''
           elementId: ''
         actions:
           - type: Button
