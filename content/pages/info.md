@@ -364,7 +364,7 @@ sections:
         label: Additive Manufacturing & Rapid Prototyping
         url: ''
       - type: Label
-        label: Netlify
+        label: Programmable Logic Controller (PLC) Programming
         url: ''
       - type: Label
         label: Pancakes
