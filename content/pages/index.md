@@ -43,16 +43,7 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions:
-      - type: Button
-        label: About Me
-        altText: ''
-        url: /About
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
