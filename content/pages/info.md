@@ -77,7 +77,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Mail
+        title: ''
         subtitle: ''
         text: ''
         elementId: ''
