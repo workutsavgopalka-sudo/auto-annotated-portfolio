@@ -25,7 +25,7 @@ sections:
       through graduate studies in Engineering with Management (Intelligent
       Manufacturing) at the University of Bristol. I aspire to join a leading
       consulting firm, where I aim to leverage my dual technical-management
-      competencies to influence critical decision-making—illuminating the nexus
+      competencies to influence critical decision-making illuminating the nexus
       between engineering innovation and its business, financial, and strategic
       impacts on organizational success.
     styles:
