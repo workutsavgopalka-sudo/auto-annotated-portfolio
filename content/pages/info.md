@@ -312,7 +312,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/small_Manipal_University_Jaipur_b0a141f1c0_38b8c78a2d_77930b7e25.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
