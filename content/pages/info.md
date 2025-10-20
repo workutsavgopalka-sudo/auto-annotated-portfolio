@@ -390,6 +390,9 @@ sections:
       - type: Label
         label: 'Lean Six Sigma, Continuous Improvement'
         url: ''
+      - type: Label
+        label: Reverse Engineering
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
