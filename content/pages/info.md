@@ -537,7 +537,7 @@ sections:
           proactive approach in identifying potential hurdles and swiftly
           addressing them ensured the smooth progression of each project,
           reflecting both his technical expertise and leadership qualities.
-        name: Johnna Doe
+        name: Ankur Kapoor
         title: Product Marketing Manager at Acme
         elementId: ''
     colors: colors-a
