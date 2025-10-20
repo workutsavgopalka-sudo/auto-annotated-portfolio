@@ -290,7 +290,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Learn more about projects
             altText: ''
             url: /
             showIcon: true
