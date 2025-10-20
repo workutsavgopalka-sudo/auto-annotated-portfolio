@@ -221,7 +221,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 'Internship - Aakaish Mechatronics, Elecon Engineering, Anand, Gujarat'
-        subtitle: ''
+        subtitle: July 2021 - July 2021
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
