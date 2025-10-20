@@ -79,7 +79,8 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: ''
+        text: |
+          Mail
         elementId: ''
         styles:
           self:
