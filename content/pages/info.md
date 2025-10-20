@@ -399,6 +399,9 @@ sections:
       - type: Label
         label: System Risk Management
         url: ''
+      - type: Label
+        label: Workshop organization and facilitation
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
