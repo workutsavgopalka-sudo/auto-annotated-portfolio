@@ -508,4 +508,32 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+  - type: QuoteSection
+    quote: >-
+      I had the pleasure of working with Utsav during his internship at Bosch,
+      where I served as part of the engineering team. Throughout his time with
+      us, Utsav demonstrated a strong technical foundation and an eagerness to
+      learn that was truly commendable.He quickly adapted to new challenges,
+      approaching each task with curiosity and analytical thinking. Utsav’s
+      ability to come up with creative and practical solutions set him apart,
+      and his resilience and work ethic ensured that he consistently delivered
+      high-quality results.It was impressive to see how he actively sought
+      feedback and used it as a tool for continuous improvement. I am confident
+      that Utsav will thrive in any professional environment that values
+      technical excellence, innovation, and a proactive mindset. - Shivansh
+      Aggarwal
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
 ---
