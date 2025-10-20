@@ -86,7 +86,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: Mail
             altText: ''
             url: 'mailto:work.utsavgopalka@gmail.com'
             showIcon: false
