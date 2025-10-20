@@ -425,6 +425,51 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          I had the pleasure of working with Utsav during his internship at
+          Bosch, where I served as part of the engineering team. Throughout his
+          time with us, Utsav demonstrated a strong technical foundation and an
+          eagerness to learn that was truly commendable. He quickly adapted to
+          new challenges, approaching each task with curiosity and analytical
+          thinking. Utsav’s ability to come up with creative and practical
+          solutions set him apart, and his resilience and work ethic ensured
+          that he consistently delivered high-quality results. It was impressive
+          to see how he actively sought feedback and used it as a tool for
+          continuous improvement. I am confident that Utsav will thrive in any
+          professional environment that values technical excellence, innovation,
+          and a proactive mindset.
+        name: Shivansh Aggarwal
+        title: ''
+        elementId: ''
+      - type: Testimonial
+        quote: >-
+          He consistently demonstrated an impressive ability to navigate the
+          technical complexities of these projects while effectively managing
+          diverse teams and stakeholders. His adeptness in balancing the
+          technical intricacies with the interpersonal dynamics required for
+          successful project implementation was remarkable. Furthermore, his
+          proactive approach in identifying potential hurdles and swiftly
+          addressing them ensured the smooth progression of each project,
+          reflecting both his technical expertise and leadership qualities.
+        name: Ankur Kapoor
+        title: Plant Head Bosch
+        elementId: ''
+    colors: colors-a
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        textAlign: center
   - type: DividerSection
     styles:
       self:
@@ -508,49 +553,4 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
-  - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: >-
-          I had the pleasure of working with Utsav during his internship at
-          Bosch, where I served as part of the engineering team. Throughout his
-          time with us, Utsav demonstrated a strong technical foundation and an
-          eagerness to learn that was truly commendable. He quickly adapted to
-          new challenges, approaching each task with curiosity and analytical
-          thinking. Utsav’s ability to come up with creative and practical
-          solutions set him apart, and his resilience and work ethic ensured
-          that he consistently delivered high-quality results. It was impressive
-          to see how he actively sought feedback and used it as a tool for
-          continuous improvement. I am confident that Utsav will thrive in any
-          professional environment that values technical excellence, innovation,
-          and a proactive mindset.
-        name: Shivansh Aggarwal
-        title: ''
-        elementId: ''
-      - type: Testimonial
-        quote: >-
-          He consistently demonstrated an impressive ability to navigate the
-          technical complexities of these projects while effectively managing
-          diverse teams and stakeholders. His adeptness in balancing the
-          technical intricacies with the interpersonal dynamics required for
-          successful project implementation was remarkable. Furthermore, his
-          proactive approach in identifying potential hurdles and swiftly
-          addressing them ensured the smooth progression of each project,
-          reflecting both his technical expertise and leadership qualities.
-        name: Ankur Kapoor
-        title: Plant Head Bosch
-        elementId: ''
-    colors: colors-a
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: center
 ---
