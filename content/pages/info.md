@@ -384,6 +384,9 @@ sections:
       - type: Label
         label: Industrial Process Optimization
         url: ''
+      - type: Label
+        label: 'Tool, Fixture, and Workstation Design'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
