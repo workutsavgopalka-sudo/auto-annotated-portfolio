@@ -361,7 +361,7 @@ sections:
         label: Geometric Dimensioning & Tolerancing (GD&T)
         url: ''
       - type: Label
-        label: Next.js
+        label: Additive Manufacturing & Rapid Prototyping
         url: ''
       - type: Label
         label: Netlify
