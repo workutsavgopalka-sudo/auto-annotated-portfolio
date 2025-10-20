@@ -176,7 +176,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Internship
+        title: 'Internship - Bosch, Jaipur, Limited'
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
