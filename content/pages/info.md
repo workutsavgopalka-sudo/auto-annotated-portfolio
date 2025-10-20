@@ -378,6 +378,9 @@ sections:
       - type: Label
         label: Python Programming
         url: ''
+      - type: Label
+        label: Mechanical Systems Simulation
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
