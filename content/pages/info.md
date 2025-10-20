@@ -358,7 +358,7 @@ sections:
         label: Product Design & 3D Modeling
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Geometric Dimensioning & Tolerancing (GD&T)
         url: ''
       - type: Label
         label: Next.js
