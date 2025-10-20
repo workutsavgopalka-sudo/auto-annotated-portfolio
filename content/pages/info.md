@@ -174,7 +174,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [work.utsavgopalka@gmail.com](mailto:thisismyemail.@myemail.me)
+      [work.utsavgopalka@gmail.com](mailto:work.utsavgopalka@gmail.com)
   - type: DividerSection
     styles:
       self:
