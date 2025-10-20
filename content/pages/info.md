@@ -235,12 +235,6 @@ sections:
           into the operational backbone of industrial machinery and factory
           workflows.
 
-        featuredImage:
-          type: ImageBlock
-          url: /images/logo (1).png
-          altText: Aakaish Mechatronics
-          caption: ''
-          elementId: ''
         actions:
           - type: Button
             label: ''
