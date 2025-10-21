@@ -122,7 +122,7 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-48
+          - pb-0
           - pl-4
           - pr-4
         textAlign: left
