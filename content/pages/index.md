@@ -4,22 +4,28 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/generated-image (6).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 60
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hi, I am Utsav Gopalka'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am a Mechatronics engineer with 3+ years of experience in CAD, GD&T, and
+      PLC programming, specializing in designing and coordinating the
+      development of machinery and workstations with advanced mechatronic
+      systems. Having driven impactful engineering projects at Bosch, I am now
+      expanding my expertise in strategy and management as an MSc candidate at
+      the University of Bristol. I am drawn to consulting because it offers a
+      unique opportunity to combine my technical background with strategic
+      problem-solving—allowing me to influence how engineering innovations shape
+      business success, create value across industries, and help organizations
+      navigate complex, high-impact decisions at the intersection of technology,
+      finance, and operations
     styles:
       self:
         height: auto
@@ -37,7 +43,25 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: About me!
+        altText: ''
+        url: /info
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
