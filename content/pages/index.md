@@ -25,7 +25,7 @@ sections:
       problem-solving—allowing me to influence how engineering innovations shape
       business success, create value across industries, and help organizations
       navigate complex, high-impact decisions at the intersection of technology,
-      finance, and operations.
+      finance, and operations
     styles:
       self:
         height: auto
