@@ -84,7 +84,8 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects: []
+    projects:
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
