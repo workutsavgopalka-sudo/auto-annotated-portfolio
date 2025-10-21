@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About me",
                 "url": "/info"
             },
             {
@@ -27,17 +27,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Linkedin",
+                "label": "Linkedin",
+                "url": "https://www.linkedin.com/in/utsavgopalka",
+                "icon": "linkedin"
             }
         ],
         "styles": {
@@ -51,14 +44,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About me",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:work.utsavgopalka@gmail.com",
                 "altText": ""
             },
             {
@@ -66,22 +59,16 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "work.utsavgopalka@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Bristol, United Kingdom",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
