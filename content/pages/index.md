@@ -63,7 +63,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: My CV
         altText: ''
         url: >-
           https://drive.google.com/file/d/1Yil6TaTVkuwTf-G-5lBYU3asAnOc7xx8/view?usp=sharing
