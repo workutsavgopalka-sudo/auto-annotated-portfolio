@@ -54,9 +54,19 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: My Blogs
         altText: ''
         url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: My CV
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1Yil6TaTVkuwTf-G-5lBYU3asAnOc7xx8/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -75,8 +85,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
     styles:
       self:
@@ -100,9 +108,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+      - content/pages/blog/post-five.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -112,7 +118,7 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-48
+          - pb-0
           - pl-4
           - pr-4
         textAlign: left
