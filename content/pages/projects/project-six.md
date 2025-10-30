@@ -39,7 +39,7 @@ backgroundImage:
 ---
 ## Project Background
 
-As part of a continuous improvement initiative at \[Company/Plant Name], a persistent bottleneck was identified on the production line: nozzle head and body cleaning were performed on a single Dürr Ecoclean machine, resulting in a 25-minute cycle time per batch. This negatively impacted output, utilization, and overall cost efficiency. Recognizing the need for a dedicated, high-throughput solution, a centrifugal dryer was sourced and implemented. What began as a simple installation rapidly evolved into a full-scale engineering and safety transformation.
+As part of a continuous improvement initiative at \[Company/Plant Name], a persistent bottleneck was identified on the production line: Distance Piece and Diesel Injector body cleaning were performed on a single Dürr Ecoclean machine, resulting in a 25-minute cycle time per batch. This negatively impacted output, utilization, and overall cost efficiency. Recognizing the need for a dedicated, high-throughput solution, a centrifugal dryer was sourced and implemented. What began as a simple installation rapidly evolved into a full-scale engineering and safety transformation.
 
 ## The Challenge
 
@@ -103,8 +103,3 @@ While the new centrifugal dryer was cost-effective (₹30,000) and promised to d
 ## Reflection
 
 This project exemplifies sustainable, high-impact operational change under real-world constraints. By combining rigorous safety engineering, automation, practical collaboration, and stakeholder alignment, a basic equipment upgrade was transformed into a significant leap in performance, safety, and compliance. Every improvement not only increased productivity but also set a new benchmark for innovation and best practice in the plant environment.
-
-
-
-
-
