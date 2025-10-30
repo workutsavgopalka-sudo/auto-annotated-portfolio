@@ -42,7 +42,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Project in Detail
         altText: ''
         url: /
         showIcon: true
