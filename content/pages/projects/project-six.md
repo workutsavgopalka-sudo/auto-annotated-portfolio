@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Centrifugal Dryer - Distance Piece '
 date: '2023-08-10'
-client: Awesome client
+client: 'Bosch Limited '
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
