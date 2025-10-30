@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Centrifugal Dryer
+title: 'Centrifugal Dryer - Distance Piece '
 date: '2023-08-10'
 client: Awesome client
 description: >-
