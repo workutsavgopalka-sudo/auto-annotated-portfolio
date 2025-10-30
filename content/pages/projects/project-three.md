@@ -31,7 +31,8 @@ bottomSections:
       - type: Button
         label: 'Complete copy of the project '
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/1zuquuyXISy-iOxmFi4WF79bxnbzcPO-k/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
