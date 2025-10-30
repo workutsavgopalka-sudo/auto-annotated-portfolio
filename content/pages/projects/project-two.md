@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Centrifugal dryer  '
+title: 'Global Challenge Project: Smart Urban Mobility Solutions for Haikou City'
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
