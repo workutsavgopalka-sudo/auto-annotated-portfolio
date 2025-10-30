@@ -28,7 +28,17 @@ bottomSections:
   - type: FeaturedItemsSection
     title: Value propositions
     items: []
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1Ru08CltqSOFYIFnM-oqz8xum7E4aFlIO/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     columns: 1
     spacingX: 16
