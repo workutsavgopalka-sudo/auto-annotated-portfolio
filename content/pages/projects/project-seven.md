@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Retaining Nut WorkStation
 date: '2023-05-15'
-client: Awesome client
+client: 'Bosch Limited '
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
