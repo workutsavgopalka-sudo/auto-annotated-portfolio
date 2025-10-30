@@ -35,7 +35,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 65
 ---
-**Comprehensive and Detailed Summary**
+****
 
 This multidisciplinary project blends product design innovation with advanced smart manufacturing principles, comprising two robust case studies:
 
@@ -70,6 +70,3 @@ The industrial portion tackled inefficiencies in steel roller manufacturing, whe
 **Concluding Insights and Forward View:**
 The project's product-design side highlights how generative design, rapid prototyping, and user feedback close the loop between concept and commercial product, while the process side underscores the transformative leverage of smart manufacturing—where connected sensors and real-time data analytics drive both efficiency and quality. Future enhancements recommended by the team include advanced AI-driven predictive models, deepened energy monitoring, extended OEE dashboarding, further user ergonomic enhancements (such as foldable or collapsible stands), and scaling of the Industry 4.0 platform for even broader industrial application.
 Overall, the project proves how digital and physical innovations—joined by robust simulation and feedback—advance both consumer goods and manufacturing performance for next-generation industry needs.
-
-
-
