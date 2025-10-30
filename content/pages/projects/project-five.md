@@ -33,7 +33,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 65
 ---
 **Comprehensive and Detailed Summary**
 
