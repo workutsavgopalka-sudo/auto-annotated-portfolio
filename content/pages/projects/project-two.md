@@ -30,7 +30,8 @@ bottomSections:
       - type: Button
         label: 'Complete project '
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/1iu9JVf9Mdw-J3dfatnnbbCfPdDXto2VS/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
