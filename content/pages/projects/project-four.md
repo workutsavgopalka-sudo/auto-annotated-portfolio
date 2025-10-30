@@ -44,7 +44,8 @@ bottomSections:
       - type: Button
         label: Project in Detail
         altText: ''
-        url: /
+        url: >-
+          https://drive.google.com/file/d/10SyjBO7srPl-o-rTVjA4qg-IFlMfJP5e/view?usp=sharing
         showIcon: true
         icon: arrowRight
         iconPosition: right
