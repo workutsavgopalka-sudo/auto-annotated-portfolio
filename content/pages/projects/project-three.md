@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'AsthmaGuard: AI-Enabled Wearable Monitoring for Elderly Care'
 colors: colors-a
-date: '2024-11-22'
+date: '2024-11-28'
 client: ''
 description: >-
   AsthmaGuard is an innovative wearable solution designed to revolutionize
