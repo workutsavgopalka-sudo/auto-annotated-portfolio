@@ -51,6 +51,13 @@ bottomSections:
           - pr-4
         flexDirection: col
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 This project analyzes the urgent transportation challenges facing Haikou City, the capital of Hainan Island and a Chinese Free Trade Port. Rapid urbanization, population growth, and surges in tourism have resulted in chronic traffic congestion, pollution, and inefficiencies in the public transport system. The city’s reliance on private cars (86% ownership) is heightened by social status perceptions and economic growth, which contributes not only to traffic jams but also to elevated pollution levels especially in business and residential hotspots.
 
