@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-08-29'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This dissertation presents a framework to help manufacturing SMEs manage
+  digital transformation risks. It identifies eight key risk categories and
+  offers practical strategies, based on practitioner feedback, enabling small
+  firms to succeed with new technologies and improve competitiveness.
 featuredImage:
   type: ImageBlock
   url: /images/generated-image (9).png
