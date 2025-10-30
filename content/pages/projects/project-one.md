@@ -30,7 +30,7 @@ bottomSections:
     items: []
     actions:
       - type: Button
-        label: Learn more
+        label: 'Complete copy of Dissertation '
         altText: ''
         url: >-
           https://drive.google.com/file/d/1Ru08CltqSOFYIFnM-oqz8xum7E4aFlIO/view?usp=sharing
