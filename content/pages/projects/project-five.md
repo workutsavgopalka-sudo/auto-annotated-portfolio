@@ -4,8 +4,15 @@ title: Smart Manufacturing and Technology
 date: '2025-04-29'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  This project combines innovative product development and advanced
+  manufacturing solutions. It features a universally adjustable mobile phone
+  stand designed through iterative CAD modeling and 3D printing, ensuring
+  compatibility, durability, and user comfort. On the industrial side, the team
+  tackled steel roller production inefficiencies by simulating and implementing
+  Industry 4.0 technologies (IIoT sensors, predictive maintenance, smart
+  resource allocation), dramatically boosting efficiency and quality. The result
+  is a blueprint for integrating generative design and digital manufacturing to
+  deliver both superior consumer products and optimized industrial performance.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
