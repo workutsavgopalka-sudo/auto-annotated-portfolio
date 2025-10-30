@@ -52,7 +52,7 @@ bottomSections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/generated-image (6).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
