@@ -28,7 +28,7 @@ bottomSections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: 'Complete project '
         altText: ''
         url: /
         showIcon: true
