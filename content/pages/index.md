@@ -86,6 +86,8 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-one.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-two.md
     styles:
       self:
         height: auto
@@ -96,19 +98,19 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: ''
+    title: Featured Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: ''
     showFeaturedImage: false
     actions:
       - type: Link
         label: See all posts
         url: /blog
-    posts:
-      - content/pages/blog/post-five.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -122,4 +124,5 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: Featured Posts
 ---
