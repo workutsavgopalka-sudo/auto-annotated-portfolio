@@ -16,7 +16,7 @@ description: >-
   transport experience for residents and visitors alike.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/generated-image (11).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
