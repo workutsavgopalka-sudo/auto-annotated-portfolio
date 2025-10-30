@@ -29,7 +29,7 @@ bottomSections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: 'Complete copy of the project '
         altText: ''
         url: /
         showIcon: true
