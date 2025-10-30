@@ -6,8 +6,15 @@ title: >-
 date: '2025-07-31'
 client: University of Bristol
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  NextGen Heat+ revolutionizes electric heating by introducing Molybdenum
+  Disilicide (MoSi₂) as a cutting-edge heating element, achieving ultra-fast
+  heating and dramatically improved energy efficiency compared to legacy
+  designs. The project not only develops this advanced product but also
+  redesigns the production system using discrete-event and Monte Carlo
+  simulations, addressing manufacturing bottlenecks to boost throughput and
+  business viability. The result is a robust, scalable system that delivers a
+  superior, energy-saving product while optimizing costs and manufacturing
+  performance for commercial success.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
