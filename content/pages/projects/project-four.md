@@ -17,7 +17,7 @@ description: >-
   performance for commercial success.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/generated-image (12).png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
