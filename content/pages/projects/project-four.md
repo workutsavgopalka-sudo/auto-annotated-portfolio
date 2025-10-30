@@ -36,6 +36,36 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 65
+bottomSections:
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        flexDirection: col
+        textAlign: left
 ---
 This engineering project tackled the redesign of electric heater elements to achieve substantial gains in both thermal efficiency and production throughput. The core breakthrough was replacing the traditional Nichrome V alloy heating wire with Molybdenum Disilicide (MoSi₂), a ceramic previously used in high-end industrial applications. MoSi₂’s superior thermal conductivity (64 W/m·K) resulted in an order-of-magnitude faster heat-up time, reaching target temperatures in under 60 seconds—compared to around 600 seconds for old designs—providing much better energy efficiency and consumer utility.
 
