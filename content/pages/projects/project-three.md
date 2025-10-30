@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: 'SAsthmaGuard: AI-Enabled Wearable Monitoring for Elderly Care'
+title: >-
+  Strategic Business Management: AsthmaGuard: AI-Enabled Wearable Monitoring for
+  Elderly Care
 colors: colors-a
 date: '2024-11-28'
 client: University of Bristol
