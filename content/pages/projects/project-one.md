@@ -26,7 +26,7 @@ backgroundImage:
   opacity: 65
 bottomSections:
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: ''
     items: []
     actions:
       - type: Button
