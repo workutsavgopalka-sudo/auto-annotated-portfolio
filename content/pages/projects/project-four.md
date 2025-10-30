@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Product and production system
 date: '2025-07-31'
-client: Awesome client
+client: University of Bristol
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
