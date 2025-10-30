@@ -5,9 +5,14 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  AsthmaGuard is an innovative wearable solution designed to revolutionize
+  asthma management for elderly patients. By continuously monitoring vital
+  health indicators and environmental triggers, it leverages advanced AI to
+  predict potential asthma attacks and alerts both patients and healthcare
+  providers in real time. This integrated system bridges the gap between home
+  care and hospitals, enabling timely intervention and facilitating independent,
+  safe living for seniors while streamlining healthcare workflows and reducing
+  complications.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
