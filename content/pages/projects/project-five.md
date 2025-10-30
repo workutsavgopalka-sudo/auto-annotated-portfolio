@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Smart Manufacturing and Technology
 date: '2025-04-29'
-client: Awesome client
+client: University of Bristol
 description: >-
   This project combines innovative product development and advanced
   manufacturing solutions. It features a universally adjustable mobile phone
