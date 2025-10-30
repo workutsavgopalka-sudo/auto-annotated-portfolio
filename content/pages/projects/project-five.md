@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: Smart Manufacturing and Technology
+title: >-
+  Smart Manufacturing and Technology: Universal Mobile Stand & Smart
+  Manufacturing Transformation
 date: '2025-04-29'
 client: University of Bristol
 description: >-
