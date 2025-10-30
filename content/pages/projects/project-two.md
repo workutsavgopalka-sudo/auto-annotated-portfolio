@@ -20,7 +20,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/generated-image (11).png
   altText: Project image
 bottomSections:
   - type: CtaSection
