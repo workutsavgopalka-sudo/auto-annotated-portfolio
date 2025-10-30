@@ -4,7 +4,16 @@ title: 'Global Challenge Project: Smart Urban Mobility Solutions for Haikou City
 colors: colors-a
 date: '2024-12-05'
 client: University of Bristol
-description: Smart Urban Mobility Solutions for Haikou City
+description: >-
+  This project presents an integrated strategy to transform Haikou City’s
+  transportation system, addressing chronic congestion, underused public
+  transport, and pollution caused by excessive private car usage. By expanding
+  and optimizing bus and microbus routes, introducing flat fares, implementing
+  adaptive vehicle-to-infrastructure technology, and rapidly scaling electric
+  vehicle infrastructure, the plan aims to deliver sustainable, efficient, and
+  green mobility. The approach enhances connectivity, reduces emissions, and
+  leverages digital platforms to create a seamless, user-friendly urban
+  transport experience for residents and visitors alike.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
