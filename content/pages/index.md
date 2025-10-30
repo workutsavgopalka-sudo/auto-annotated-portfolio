@@ -123,4 +123,5 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: Featured Posts
 ---
