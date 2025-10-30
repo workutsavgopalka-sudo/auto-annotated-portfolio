@@ -5,7 +5,7 @@ title: >-
   Manufacturing SMEs
 colors: colors-a
 date: '2021-08-29'
-client: ''
+client: University of Bristol
 description: >-
   This dissertation presents a framework to help manufacturing SMEs manage
   digital transformation risks. It identifies eight key risk categories and
