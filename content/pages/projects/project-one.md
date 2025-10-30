@@ -24,6 +24,29 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 65
+bottomSections:
+  - type: TextSection
+    title: The Section Title
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        textAlign: left
 ---
 This dissertation addresses the critical challenge faced by manufacturing Small and Medium-sized Enterprises (SMEs) in navigating digital transformation. While Industry 4.0 technologies promise substantial productivity (+25%) and efficiency (+30%) gains, digital initiatives fail at a staggering 70% rate—SMEs being disproportionately affected due to acute resource constraints. Existing risk management models, from basic SWOT analyses to complex ISO 31000 standards, fail to account for the unique interdependencies and cascading risks inherent in SME digital transformation; for instance, financial limitations amplify cybersecurity vulnerability by up to 40% versus large firms.
 
