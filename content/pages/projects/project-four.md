@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: Product and production system
+title: >-
+  Product and production system: High-Efficiency Electric Heater and Optimized
+  Production System
 date: '2025-07-31'
 client: University of Bristol
 description: >-
