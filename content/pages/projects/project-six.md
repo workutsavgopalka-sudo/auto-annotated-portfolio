@@ -17,7 +17,7 @@ description: >-
   process efficiency and workplace safety.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/generated-image (15).png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
