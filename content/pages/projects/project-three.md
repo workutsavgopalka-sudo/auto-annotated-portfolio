@@ -50,6 +50,13 @@ bottomSections:
           - pr-4
         flexDirection: col
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Asthma is a major chronic disease, with **262 million people globally affected**—over 6 million of whom are elderly. The elderly population faces significant risks: symptoms are underdiagnosed, daily treatment is challenging, and effective management is hindered by outdated, fragmented healthcare systems and devices. The COVID-19 pandemic exposed these weaknesses, underscoring the urgent need for innovation that can seamlessly bridge home healthcare, telehealth, and hospital infrastructures.
 
