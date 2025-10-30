@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'AsthmaGuard: AI-Enabled Wearable Monitoring for Elderly Care'
 colors: colors-a
 date: '2024-11-28'
-client: ''
+client: University of Bristol
 description: >-
   AsthmaGuard is an innovative wearable solution designed to revolutionize
   asthma management for elderly patients. By continuously monitoring vital
