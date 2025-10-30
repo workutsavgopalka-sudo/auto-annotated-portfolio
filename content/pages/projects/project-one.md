@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: Strategic Digital Transformation Risk Management for Manufacturing SMEs
+title: >-
+  Dissertation: Strategic Digital Transformation Risk Management for
+  Manufacturing SMEs
 colors: colors-a
 date: '2021-08-29'
 client: ''
