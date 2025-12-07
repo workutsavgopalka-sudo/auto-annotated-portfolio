@@ -6,7 +6,11 @@ title: >-
 colors: colors-a
 date: '2025-12-07'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: >-
+  Even if we come from a non-financial background and don't strictly use
+  financial knowledge in our daily professional lives, there is still a serious
+  need for it. Just knowing the basics of accounting can change the way we view
+  the things we buy and use.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
