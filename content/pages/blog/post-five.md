@@ -4,7 +4,7 @@ title: >-
   The "Physics" of Money: Why Every Engineer and Scientist Needs to Master
   Finance
 colors: colors-a
-date: '2025-12-02'
+date: '2025-12-07'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
