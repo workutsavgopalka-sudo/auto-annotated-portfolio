@@ -39,7 +39,7 @@ backgroundImage:
 ---
 ## Project Background
 
-As part of a continuous improvement initiative at \[Company/Plant Name], a persistent bottleneck was identified on the production line: Distance Piece and Diesel Injector body cleaning were performed on a single Dürr Ecoclean machine, resulting in a 25-minute cycle time per batch. This negatively impacted output, utilization, and overall cost efficiency. Recognizing the need for a dedicated, high-throughput solution, a centrifugal dryer was sourced and implemented. What began as a simple installation rapidly evolved into a full-scale engineering and safety transformation.
+As part of a continuous improvement initiative at Bosch, a persistent bottleneck was identified on the production line: Distance Piece and Diesel Injector body cleaning were performed on a single Dürr Ecoclean machine, resulting in a 25-minute cycle time per batch. This negatively impacted output, utilization, and overall cost efficiency. Recognizing the need for a dedicated, high-throughput solution, a centrifugal dryer was sourced and implemented. What began as a simple installation rapidly evolved into a full-scale engineering and safety transformation.
 
 ## The Challenge
 
