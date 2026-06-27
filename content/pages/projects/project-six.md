@@ -23,7 +23,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/generated-image (15).png
+  url: /images/WhatsApp Image 2026-06-27 at 8.47.26 AM.jpeg
   altText: Project image
   caption: Caption of the image
   elementId: ''
